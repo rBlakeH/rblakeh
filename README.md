@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rblakeh&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rblakeh&theme=great-gatsby&count_private=true](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rblakeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
